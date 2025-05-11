@@ -9,9 +9,16 @@ namespace GerenciadorTarefas.Models
 {
     class TarefaContext : DbContext
     {
+        public DbSet<Tarefa> tarefa { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlite("Data Source=app.db");
+            string rootPath = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, "..\\..\\.."));                        
+            var dbPath = Path.Combine(rootPath, "Data");
+
+            if (!Directory.Exists(dbPath))
+                Directory.CreateDirectory(dbPath);
+
+            optionsBuilder.UseSqlite($"Data Source={Path.Combine(dbPath, "Banco.db")}");
         }
     }
 }

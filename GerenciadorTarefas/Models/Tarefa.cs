@@ -10,6 +10,6 @@ namespace GerenciadorTarefas.Models
     {
         public int Id { get; set; }
         public string Nome { get; set; }
-        public bool Status { get; set; }
+        public int Status { get; set; }
     }
 }
