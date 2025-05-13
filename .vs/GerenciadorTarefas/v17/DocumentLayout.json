@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{2CC8247C-5E5A-411D-A1D1-6EC68DBF9A7A}|GerenciadorTarefas\\GerenciadorTarefas.csproj|solutionrelative:gerenciadortarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2CC8247C-5E5A-411D-A1D1-6EC68DBF9A7A}|GerenciadorTarefas\\GerenciadorTarefas.csproj|e:\\visual projects\\windows\\console\\gerenciadortarefas\\gerenciadortarefas\\controls\\vosktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CC8247C-5E5A-411D-A1D1-6EC68DBF9A7A}|GerenciadorTarefas\\GerenciadorTarefas.csproj|solutionrelative:gerenciadortarefas\\controls\\vosktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2CC8247C-5E5A-411D-A1D1-6EC68DBF9A7A}|GerenciadorTarefas\\GerenciadorTarefas.csproj|e:\\visual projects\\windows\\console\\gerenciadortarefas\\gerenciadortarefas\\controls\\appcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CC8247C-5E5A-411D-A1D1-6EC68DBF9A7A}|GerenciadorTarefas\\GerenciadorTarefas.csproj|solutionrelative:gerenciadortarefas\\controls\\appcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "VoskTest.cs",
+              "DocumentMoniker": "E:\\Visual Projects\\Windows\\Console\\GerenciadorTarefas\\GerenciadorTarefas\\Controls\\VoskTest.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas\\Controls\\VoskTest.cs",
+              "ToolTip": "E:\\Visual Projects\\Windows\\Console\\GerenciadorTarefas\\GerenciadorTarefas\\Controls\\VoskTest.cs",
+              "RelativeToolTip": "GerenciadorTarefas\\Controls\\VoskTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:15:52.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "GerenciadorTarefas.csproj",
               "DocumentMoniker": "E:\\Visual Projects\\Windows\\Console\\GerenciadorTarefas\\GerenciadorTarefas\\GerenciadorTarefas.csproj",
               "RelativeDocumentMoniker": "GerenciadorTarefas\\GerenciadorTarefas.csproj",
@@ -42,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "VoiceListener.cs",
               "DocumentMoniker": "E:\\Visual Projects\\Windows\\Console\\GerenciadorTarefas\\GerenciadorTarefas\\Controls\\VoiceListener.cs",
               "RelativeDocumentMoniker": "GerenciadorTarefas\\Controls\\VoiceListener.cs",
@@ -54,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AppControl.cs",
               "DocumentMoniker": "E:\\Visual Projects\\Windows\\Console\\GerenciadorTarefas\\GerenciadorTarefas\\Controls\\AppControl.cs",
               "RelativeDocumentMoniker": "GerenciadorTarefas\\Controls\\AppControl.cs",
@@ -72,7 +89,7 @@
               "RelativeDocumentMoniker": "GerenciadorTarefas\\Program.cs",
               "ToolTip": "E:\\Visual Projects\\Windows\\Console\\GerenciadorTarefas\\GerenciadorTarefas\\Program.cs",
               "RelativeToolTip": "GerenciadorTarefas\\Program.cs",
-              "ViewState": "AgIAALYAAAAAAAAAAAAIwOkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T15:52:26.139Z",
               "EditorCaption": ""

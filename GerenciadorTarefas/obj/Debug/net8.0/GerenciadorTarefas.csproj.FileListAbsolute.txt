@@ -148,3 +148,9 @@ E:\Visual Projects\Windows\Console\GerenciadorTarefas\GerenciadorTarefas\bin\Deb
 E:\Visual Projects\Windows\Console\GerenciadorTarefas\GerenciadorTarefas\bin\Debug\net8.0\libvosk.dll
 E:\Visual Projects\Windows\Console\GerenciadorTarefas\GerenciadorTarefas\bin\Debug\net8.0\libwinpthread-1.dll
 E:\Visual Projects\Windows\Console\GerenciadorTarefas\GerenciadorTarefas\bin\Debug\net8.0\Vosk.dll
+E:\Visual Projects\Windows\Console\GerenciadorTarefas\GerenciadorTarefas\bin\Debug\net8.0\NAudio.dll
+E:\Visual Projects\Windows\Console\GerenciadorTarefas\GerenciadorTarefas\bin\Debug\net8.0\NAudio.Asio.dll
+E:\Visual Projects\Windows\Console\GerenciadorTarefas\GerenciadorTarefas\bin\Debug\net8.0\NAudio.Core.dll
+E:\Visual Projects\Windows\Console\GerenciadorTarefas\GerenciadorTarefas\bin\Debug\net8.0\NAudio.Midi.dll
+E:\Visual Projects\Windows\Console\GerenciadorTarefas\GerenciadorTarefas\bin\Debug\net8.0\NAudio.Wasapi.dll
+E:\Visual Projects\Windows\Console\GerenciadorTarefas\GerenciadorTarefas\bin\Debug\net8.0\NAudio.WinMM.dll

@@ -14,7 +14,7 @@ context.Database.EnsureCreated();
 SQLitePCL.Batteries_V2.Init();
 
 Console.WriteLine("Bem vindo, digite um comando do gerenciador");
-Console.WriteLine("Comandos: iniciar, status, caminho, ajuda, sair");
+Console.WriteLine("Comandos: iniciar, status, caminho, ajuda, vosk, sair");
 while (true)
 {    
     Console.Write("comando> ");
@@ -48,6 +48,11 @@ while (true)
             Console.WriteLine("Comandos: iniciar, status, caminho, ajuda, sair");
             break;
 
+        case "vosk":
+            Console.WriteLine("Iniciando filtragem de voz");
+            UseVosk();
+            break;
+
         case "sair":
             AppControl.Encerrar();
             break;        
@@ -65,6 +70,17 @@ static string StatusToTexto(int status)
         0 => "Pendente",
         1 => "Concluída"
     };
+}
+
+void UseVosk()
+{
+    using var teste = new VoskTest();
+    teste.Iniciar();
+
+    Console.WriteLine("Diga/digite sair para voltar ao sistema");
+    string res = Console.ReadLine().ToLower();
+    if(res == "sair")
+    return;
 }
 
 void AdicionarDadosTeste(string choice)
