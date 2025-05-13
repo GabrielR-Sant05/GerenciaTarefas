@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{2CC8247C-5E5A-411D-A1D1-6EC68DBF9A7A}|GerenciadorTarefas\\GerenciadorTarefas.csproj|solutionrelative:gerenciadortarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CC8247C-5E5A-411D-A1D1-6EC68DBF9A7A}|GerenciadorTarefas\\GerenciadorTarefas.csproj|e:\\visual projects\\windows\\console\\gerenciadortarefas\\gerenciadortarefas\\models\\tarefacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CC8247C-5E5A-411D-A1D1-6EC68DBF9A7A}|GerenciadorTarefas\\GerenciadorTarefas.csproj|solutionrelative:gerenciadortarefas\\models\\tarefacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CC8247C-5E5A-411D-A1D1-6EC68DBF9A7A}|GerenciadorTarefas\\GerenciadorTarefas.csproj|e:\\visual projects\\windows\\console\\gerenciadortarefas\\gerenciadortarefas\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CC8247C-5E5A-411D-A1D1-6EC68DBF9A7A}|GerenciadorTarefas\\GerenciadorTarefas.csproj|solutionrelative:gerenciadortarefas\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2CC8247C-5E5A-411D-A1D1-6EC68DBF9A7A}|GerenciadorTarefas\\GerenciadorTarefas.csproj|e:\\visual projects\\windows\\console\\gerenciadortarefas\\gerenciadortarefas\\controls\\appcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CC8247C-5E5A-411D-A1D1-6EC68DBF9A7A}|GerenciadorTarefas\\GerenciadorTarefas.csproj|solutionrelative:gerenciadortarefas\\controls\\appcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC8247C-5E5A-411D-A1D1-6EC68DBF9A7A}|GerenciadorTarefas\\GerenciadorTarefas.csproj|e:\\visual projects\\windows\\console\\gerenciadortarefas\\gerenciadortarefas\\controls\\voicelistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CC8247C-5E5A-411D-A1D1-6EC68DBF9A7A}|GerenciadorTarefas\\GerenciadorTarefas.csproj|solutionrelative:gerenciadortarefas\\controls\\voicelistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC8247C-5E5A-411D-A1D1-6EC68DBF9A7A}|GerenciadorTarefas\\GerenciadorTarefas.csproj|e:\\visual projects\\windows\\console\\gerenciadortarefas\\gerenciadortarefas\\gerenciadortarefas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2CC8247C-5E5A-411D-A1D1-6EC68DBF9A7A}|GerenciadorTarefas\\GerenciadorTarefas.csproj|solutionrelative:gerenciadortarefas\\gerenciadortarefas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,20 +30,31 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TarefaContext.cs",
-              "DocumentMoniker": "E:\\Visual Projects\\Windows\\Console\\GerenciadorTarefas\\GerenciadorTarefas\\Models\\TarefaContext.cs",
-              "RelativeDocumentMoniker": "GerenciadorTarefas\\Models\\TarefaContext.cs",
-              "ToolTip": "E:\\Visual Projects\\Windows\\Console\\GerenciadorTarefas\\GerenciadorTarefas\\Models\\TarefaContext.cs",
-              "RelativeToolTip": "GerenciadorTarefas\\Models\\TarefaContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T18:04:32.272Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "GerenciadorTarefas.csproj",
+              "DocumentMoniker": "E:\\Visual Projects\\Windows\\Console\\GerenciadorTarefas\\GerenciadorTarefas\\GerenciadorTarefas.csproj",
+              "RelativeDocumentMoniker": "GerenciadorTarefas\\GerenciadorTarefas.csproj",
+              "ToolTip": "E:\\Visual Projects\\Windows\\Console\\GerenciadorTarefas\\GerenciadorTarefas\\GerenciadorTarefas.csproj",
+              "RelativeToolTip": "GerenciadorTarefas\\GerenciadorTarefas.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T02:02:18.015Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "VoiceListener.cs",
+              "DocumentMoniker": "E:\\Visual Projects\\Windows\\Console\\GerenciadorTarefas\\GerenciadorTarefas\\Controls\\VoiceListener.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas\\Controls\\VoiceListener.cs",
+              "ToolTip": "E:\\Visual Projects\\Windows\\Console\\GerenciadorTarefas\\GerenciadorTarefas\\Controls\\VoiceListener.cs",
+              "RelativeToolTip": "GerenciadorTarefas\\Controls\\VoiceListener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T02:01:17.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AppControl.cs",
               "DocumentMoniker": "E:\\Visual Projects\\Windows\\Console\\GerenciadorTarefas\\GerenciadorTarefas\\Controls\\AppControl.cs",
               "RelativeDocumentMoniker": "GerenciadorTarefas\\Controls\\AppControl.cs",
@@ -51,21 +62,7 @@
               "RelativeToolTip": "GerenciadorTarefas\\Controls\\AppControl.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T17:22:10.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Tarefa.cs",
-              "DocumentMoniker": "E:\\Visual Projects\\Windows\\Console\\GerenciadorTarefas\\GerenciadorTarefas\\Models\\Tarefa.cs",
-              "RelativeDocumentMoniker": "GerenciadorTarefas\\Models\\Tarefa.cs",
-              "ToolTip": "E:\\Visual Projects\\Windows\\Console\\GerenciadorTarefas\\GerenciadorTarefas\\Models\\Tarefa.cs",
-              "RelativeToolTip": "GerenciadorTarefas\\Models\\Tarefa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T19:31:04.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T17:22:10.722Z"
             },
             {
               "$type": "Document",
@@ -75,7 +72,7 @@
               "RelativeDocumentMoniker": "GerenciadorTarefas\\Program.cs",
               "ToolTip": "E:\\Visual Projects\\Windows\\Console\\GerenciadorTarefas\\GerenciadorTarefas\\Program.cs",
               "RelativeToolTip": "GerenciadorTarefas\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
+              "ViewState": "AgIAALYAAAAAAAAAAAAIwOkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T15:52:26.139Z",
               "EditorCaption": ""

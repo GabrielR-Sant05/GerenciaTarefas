@@ -1122,6 +1122,18 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "Vosk/0.3.38": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Vosk.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Vosk.dll": {}
+        },
+        "build": {
+          "build/Vosk.targets": {}
+        }
       }
     }
   },
@@ -3241,6 +3253,25 @@
         "system.threading.channels.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Vosk/0.3.38": {
+      "sha512": "W/me6nwF7fq9uWVmqbmWvPx3DjhMSzb9D85IZa0FUg2PIxcWjfG55vYHBc+9xCuNL/zohIBRYTKiP4itnMU3ww==",
+      "type": "package",
+      "path": "vosk/0.3.38",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/Vosk.targets",
+        "build/lib/linux-x64/libvosk.so",
+        "build/lib/osx-universal/libvosk.dylib",
+        "build/lib/win-x64/libgcc_s_seh-1.dll",
+        "build/lib/win-x64/libstdc++-6.dll",
+        "build/lib/win-x64/libvosk.dll",
+        "build/lib/win-x64/libwinpthread-1.dll",
+        "lib/netstandard2.0/Vosk.dll",
+        "vosk.0.3.38.nupkg.sha512",
+        "vosk.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
@@ -3248,7 +3279,8 @@
       "Microsoft.EntityFrameworkCore.Design >= 9.0.4",
       "Microsoft.EntityFrameworkCore.Sqlite.Core >= 9.0.4",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.21.0",
-      "SQLitePCLRaw.bundle_e_sqlite3 >= 2.1.11"
+      "SQLitePCLRaw.bundle_e_sqlite3 >= 2.1.11",
+      "Vosk >= 0.3.38"
     ]
   },
   "packageFolders": {
@@ -3319,6 +3351,10 @@
           "SQLitePCLRaw.bundle_e_sqlite3": {
             "target": "Package",
             "version": "[2.1.11, )"
+          },
+          "Vosk": {
+            "target": "Package",
+            "version": "[0.3.38, )"
           }
         },
         "imports": [
